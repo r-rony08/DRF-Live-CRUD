@@ -1,4 +1,4 @@
-A full-stack web app built with Django REST Framework (DRF) for seamless CRUD operations.<br/> The browsable API lets you interact with data easily, and the frontend stays in sync with the backend in real time.<br/>
+A full-stack web app built with Django REST Framework (DRF) for seamless CRUD operations.<br/> The browsable API lets you interact with data easily, and the frontend stays in sync with the backend in real time.
 ---
 ✅ RESTful API built with Django REST Framework<br/>
 ✅ CRUD operations with automatic frontend-backend synchronization<br/>

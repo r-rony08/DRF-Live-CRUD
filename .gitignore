@@ -1,0 +1,25 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+
+# Django settings (if using environment variables)
+.env
+*.env
+
+# Database files
+db.mysql
+*.CRUDproject
+
+# Pytest cache
+.pytest_cache/
+
+# MySQL/PostgreSQL dump files
+*.sql
+*.dump
+
+
